@@ -184,6 +184,10 @@ background: url(./images/nav-button.gif) no-repeat top left;
 		padding: 10px 0;
 	}
 	
+	#main-content .entry-content ol, #main-content .entry-content ul {
+	 padding-left: 30px;
+	}
+	
 	#main-content .post-info {
 		font-size: 10px;
 		font-weight: bold;
