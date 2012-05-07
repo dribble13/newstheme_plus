@@ -25,11 +25,7 @@
 </div>
 <div id="copyright">
 	<div class="wrapper">
-		<ul>
-			<li>| <a href="#">お問い合わせ</a> | </a></li>
-			<li><a href="#">プライバシーポリシー</a> | </a></li>
-		</ul>
-<p>&copy; 2009 News Theme by <a href="http://designdisease.com">DD</a> &#38; <a href="http://wpthemejp.com/">WordPress theme</a>.</p>
+    <p>&copy; 2009 News Theme by <a href="http://designdisease.com">DD</a> &#38; <a href="http://wpthemejp.com/">WordPress theme</a>.</p>
 		<div class="clear"></div>
 		<?php wp_footer(); ?>
 	</div>
