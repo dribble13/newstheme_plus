@@ -228,11 +228,20 @@ background: url(./images/nav-button.gif) no-repeat top left;
 	
 		.orange-box h3 {
 			font-family: Georgia;
-			background: url(./images/h3-bottom.gif) no-repeat bottom;
+			background: url(./images/h3-bottom.gif) no-repeat top;
 			font-size: 20px;
 			color: #c30;
 			font-weight: normal;
-			padding: 0 0 14px 0;
+			padding: 12px 0 0 0;
+		}
+		
+		.orange-box h3.first {
+			font-family: Georgia;
+			background: none;
+			font-size: 20px;
+			color: #c30;
+			font-weight: normal;
+			padding: 0 0 0 0;
 		}
 		
 		.orange-box ul { padding: 0 0 10px 0; }

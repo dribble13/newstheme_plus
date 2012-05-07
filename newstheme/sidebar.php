@@ -1,6 +1,6 @@
 	<div id="sidebar">
 		<div class="orange-box">		
-		  <h3><?php the_author_meta('display_name') ?>とは</h3>
+		  <h3 class="first"><?php the_author_meta('display_name') ?>とは</h3>
 		  <ul>
 		    <?php the_author_meta('description') ?>
 		  </ul>
